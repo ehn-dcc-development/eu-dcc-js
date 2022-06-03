@@ -137,3 +137,6 @@ const dcc = dccLib.decode_hcert(hcert1);
 console.log(dcc);
 console.log(JSON.stringify(dcc, null, 2));
 ```
+
+## References
+* Similar library https://fuubi.github.io/digital-covid-certificate-lib/index.html https://github.com/fuubi/digital-covid-certificate-lib

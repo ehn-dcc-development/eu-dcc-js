@@ -139,4 +139,7 @@ console.log(JSON.stringify(dcc, null, 2));
 ```
 
 ## References
-* Similar library https://fuubi.github.io/digital-covid-certificate-lib/index.html https://github.com/fuubi/digital-covid-certificate-lib
+* Similar libraries
+   * https://fuubi.github.io/digital-covid-certificate-lib/index.html 
+   * https://github.com/fuubi/digital-covid-certificate-lib
+   * https://github.com/Path-Check/dcc-sdk.js
